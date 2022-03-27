@@ -1,9 +1,10 @@
-package com.springboot.aws;
+package com.springboot.cicd;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+
 @SpringBootTest
-class DeploySpringbootOnCloudApplicationTests {
+class CiCdDeploymentForSpringbootApplicationTests {
 
 	@Test
 	void contextLoads() {
